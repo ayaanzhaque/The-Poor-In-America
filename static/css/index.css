@@ -155,3 +155,9 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.newspaper {
+  column-count: 2;
+  column-gap: 40px;
+  column-rule: 1px solid #D8BFD8;
+}
